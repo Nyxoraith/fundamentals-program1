@@ -22,4 +22,6 @@ int main(){
     getchar();
     printf("%s\n", nome_amigo);
     printf("%s\n", email_amigo);
+
+    return 0;
 }
