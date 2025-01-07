@@ -1,2 +1,2 @@
-# fundamentals-program1
-Exercícios da Matéria de Fundamentos de Programação 1 - C da Faculdade.
+# Fundamentos de Programação 1 - UTFPR
+Exercícios da Matéria de Fundamentos de Programação 1 - C.
