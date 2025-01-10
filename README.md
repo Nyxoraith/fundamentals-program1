@@ -9,3 +9,4 @@ Exercícios da Matéria de Fundamentos de Programação 1 - C.
 - Aula 6 - Estrutura de Seleção If-Else: Estruturas condicionais, Operadores Relacionais, Operadores Lógicos, Operadores Ternários.
 - Aula 7 - Estrutura de Seleção Switch.
 - Aula 8 - Estrutura de Repetição While, Laços de repetição, Variável Contadora e Variável Acumuladora.
+- Aula 9 - Estrutura de Repetição Do While, Modificadores de Fluxo: Break, Continue, Goto e Label.
