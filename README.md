@@ -12,4 +12,5 @@ Exercícios da Matéria de Fundamentos de Programação 1 - C.
 - Aula 9 - Estrutura de Repetição Do While, Modificadores de Fluxo: Break, Continue, Goto e Label.
 - Lista P1: 01-09 - Lista de Exercicios para a prova da aula 01 a aula 09
 - Aula 10 - Estrutura de Repetição For, Laços de repetição aninhados.
-- Aula 11 - Estrutura de Vetores.
+- Aula 11 - Estrutura de Vetores, Matriz Unidimensional.
+- Aula 12 - Estrutura de Matrizes. Matriz Bidimensional, Matriz Tridimensional, Operações com Matrizes.
