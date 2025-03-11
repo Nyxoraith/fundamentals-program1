@@ -15,3 +15,4 @@ Exercícios da Matéria de Fundamentos de Programação 1 - C.
 - Aula 11 - Estrutura de Vetores, Matriz Unidimensional.
 - Aula 12 - Estrutura de Matrizes. Matriz Bidimensional, Matriz Tridimensional, Operações com Matrizes.
 - Aula 13 - Strings, fgets, Vetores Bidimensionais para Strings, Biblioteca <string.h>, Funções de string.h
+- Aula 14 - Funções, Escopo de Variáveis, Funções com parâmetros e retorno, Passagem de parâmetros pela Main.
